@@ -1,24 +1,27 @@
 # Suggested Rubric
 
-I will only be adding a few variations to the existing rubric so that it reflects the uniqueness of this module.
 
-5 points for attendance and engagement still seems like a very reasonable expectation, so that can stay the same.
+Given that this module was more of challenge, and lacks the same number of reading to draw upon as with other modules due to missing a few classes, I have changed the rubric so that it reflects this module fairly. 
 
-5 points for the process notes also seem very reasonable and applicable, probably even more so in this module due to the more complicated nature of the project. In my case, I think it is necessary to explain how I figured out how to code using Tracery JSON, and how I went about coding my twitter bot so that it generated the tweets that I wanted.
 
-I also think that 5 points for the thing itself, on the grounds that it achieved our main goal that we detailed in the Paradata. For myself, a lot of my time was spent on figuring out how to code using Tracery JSON and while my final bot is simplistic, I am actually quite proud of what I was able to accomplish. I had absolutely no idea how coding functioned before, and I am quite proud of myself for being able to actually write code now (even if it is still faulty).
+#### 3 points for Attendance and Engagement
 
-I think that, as usual, there should be 5 points for Paradata, however I think the expectations within the paradata should be altered slightly. Given that we have all selected objects at the beginning of the semester that we have been restricted to this entire time and the histories associated with our objects are so vastly different, judging our final product on the same criteria would not be fair. Therefore, I propose that we still be marked on thought process behind our work, with more focus on how we made the main goals of this module work with the object that we had already chosen and how we made it have meaning. I also think less emphasis should be placed on incorporating specific readings into our paradata. In my case, many of the readings did not directly apply as they all addressed history in videos games specifically, where as I created a twitter bot instead of a game. I think that in my case, more weight should be given to the intention behind the project, and how I incorporated some of the main ideas we discussed into my project. I also think that object should be graded on HOW it fosters interactivity and engagement, rather than the platform it uses to achieve that (twitter bot vs. video game). Importance should be placed in how the work makes you think of some aspect of history differently, rather than just the product itself. Just like Warhol’s art, it is what you take away from the objet, not the object itself that holds the meaning.
+Marks calculated by participation and involvement in both class and online on hypothesis. I have lowered the marks slightly hear because we have missed so classes and have had less readings in this module. 
 
-Final Mark Breakdown
-5 points – Attendance and engagement with readings
-5 points – Process notes
-Detailed explanation of our work
-Effort that was put in
-Evidence of clearly thought out decisions.
-5 points -The thing/object itself
-5 points – Paradata
-How we made our objects work in this module.
-How we made its new form have meaning and how we made its interactive components have meaning.
-Incorporation of main themes of this module.
-I put a lot of thought and effort into this module and it was probably the most difficult one yet. I tried my best to produce some that works, but was also produced with deep thought and deliberate intentions which coincided with some of the main themes we discussed in class. For these reasons I feel as though I should receive a full/close to full mark that is reflective of my effort.
+
+#### 5 points for Process Notes
+
+Process Notes are necessary to explaining how I was able to achieve my virtual reality hologram. I think it is important for future reference for myself and for anyone else who wishes to do this (because I personally found it VERY cool).
+
+
+#### 6 points for the Final Object 
+
+Slightly more points should be awarded to the final object because the purpose of this module was to bring our virtual object into the physical world. This endeavour was something that I have never done before, nor did I even think it was possible to do on my own. I was able to produce my hologram by troubleshooting and researching on my own and experimenting along the way. 
+
+Furthermore, as always, I think that the final object should be looked while keeping in mind the discussion and thoughts that were set out in the Paradata, and should be marked on how well the object conveys these thoughts. 
+
+
+#### 6 points for Paradata
+
+I think that the marking of the paradata should take into consideration the thought process behind the work and how our class discussions throughout the semester has come to influence and inform our decision making process in regards to our final product. 
+As with the previous module, I think that the relationship of our topic to the way the way we decided to render it should be considered, as not all forms of VR or alternate reality could produce a meaningful outcome. In addition, I think less emphasis should be placed on incorporating specific readings into our paradata, as we had less readings assigned in this module. Rather, I think that the demonstration of understanding the general concepts of this module and this course should be marked. 
